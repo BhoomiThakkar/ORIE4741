@@ -9,4 +9,4 @@ Our goal is to:
 Analyse the key trends in patent innovation by geography, inventor demography, etc.
 Derive insights about the factors that drive of inhibit innovation
 
-The full project proposal can be found in "ProjectProposal.pdf"
+The full project proposal can be found in "ProjectProposal.md"
