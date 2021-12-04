@@ -10,3 +10,5 @@ Analyse the key trends in patent innovation by geography, inventor demography, e
 Derive insights about the factors that drive of inhibit innovation
 
 The full project proposal can be found in "ProjectProposal.md"
+
+Video presentation link: https://youtu.be/4r4VGGbnxI0
