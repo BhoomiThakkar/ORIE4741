@@ -11,4 +11,5 @@ Derive insights about the factors that drive of inhibit innovation
 
 The full project proposal can be found in "ProjectProposal.md"
 
-Video presentation link: https://youtu.be/4r4VGGbnxI0
+Video presentation link: https://youtu.be/Y7Exww0lbdw
+
